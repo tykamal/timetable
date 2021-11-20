@@ -17,7 +17,7 @@ const Main = (props: IMainProps) => (
           <div className="font-bold text-xl md:text-2xl lg:text-3xl text-gray-900">
             {AppConfig.title}
           </div>
-          <div className="text-l md:text-xl whitespace-nowrap">
+          <div className="text-m md:text-xl whitespace-nowrap">
             {AppConfig.description}
           </div>
         </div>

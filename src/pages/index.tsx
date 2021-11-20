@@ -18,7 +18,7 @@ const Index = () => {
       }
     >
       <input
-        className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+        className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-500 leading-tight focus:outline-none focus:shadow-outline"
         id="search"
         type="text"
         placeholder="Type a keyword to search: 1s, 6h, art etc..."

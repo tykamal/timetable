@@ -64,7 +64,7 @@ const sessions = [
   },
   {
     id: '02034',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 6H',
     day: 'Thursday 18, Nov 21',
@@ -73,7 +73,7 @@ const sessions = [
   },
   {
     id: '01034',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 6L',
     day: 'Thursday 18, Nov 21',
@@ -82,7 +82,7 @@ const sessions = [
   },
   {
     id: '00034',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 6M',
     day: 'Thursday 18, Nov 21',
@@ -280,7 +280,7 @@ const sessions = [
   },
   {
     id: '00050',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 3K',
     day: 'Friday 19, Nov 21',
@@ -289,7 +289,7 @@ const sessions = [
   },
   {
     id: '01050',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 3M',
     day: 'Friday 19, Nov 21',
@@ -514,7 +514,7 @@ const sessions = [
   },
   {
     id: '00066',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 1S',
     day: 'Monday 22, Nov 21',
@@ -559,7 +559,7 @@ const sessions = [
   },
   {
     id: '00070',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 2K',
     day: 'Monday 22, Nov 21',
@@ -712,7 +712,7 @@ const sessions = [
   },
   {
     id: '00078',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 2K',
     day: 'Tuesday 23, Nov 21',
@@ -721,7 +721,7 @@ const sessions = [
   },
   {
     id: '00079',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 2M',
     day: 'Tuesday 23, Nov 21',
@@ -730,7 +730,7 @@ const sessions = [
   },
   {
     id: '00080',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 4G',
     day: 'Tuesday 23, Nov 21',
@@ -739,7 +739,7 @@ const sessions = [
   },
   {
     id: '00081',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 4S',
     day: 'Tuesday 23, Nov 21',
@@ -748,7 +748,7 @@ const sessions = [
   },
   {
     id: '00082',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 5G',
     day: 'Tuesday 23, Nov 21',
@@ -757,7 +757,7 @@ const sessions = [
   },
   {
     id: '00083',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 5K',
     day: 'Tuesday 23, Nov 21',
@@ -793,7 +793,7 @@ const sessions = [
   },
   {
     id: '00087',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 1S',
     day: 'Tuesday 23, Nov 21',
@@ -1099,7 +1099,7 @@ const sessions = [
   },
   {
     id: '00111',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 5G',
     day: 'Wednesday 24, Nov 21',
@@ -1225,7 +1225,7 @@ const sessions = [
   },
   {
     id: '00115',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 2M',
     day: 'Thursday 25, Nov 21',
@@ -1261,7 +1261,7 @@ const sessions = [
   },
   {
     id: '00119',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 4S',
     day: 'Thursday 25, Nov 21',
@@ -1270,7 +1270,7 @@ const sessions = [
   },
   {
     id: '00120',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 3M',
     day: 'Thursday 25, Nov 21',
@@ -1333,7 +1333,7 @@ const sessions = [
   },
   {
     id: '00029',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 4G',
     day: 'Friday 26, Nov 21',
@@ -1369,7 +1369,7 @@ const sessions = [
   },
   {
     id: '00121',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 6M',
     day: 'Friday 26, Nov 21',
@@ -1378,7 +1378,7 @@ const sessions = [
   },
   {
     id: '00122',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 4G',
     day: 'Friday 26, Nov 21',
@@ -1387,7 +1387,7 @@ const sessions = [
   },
   {
     id: '00123',
-    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC',
+    subject: 'PERSONAL SOCIAL HEALTH ECONOMIC (PSHE)',
     paper: 'single',
     grade: 'Class 4S',
     day: 'Friday 26, Nov 21',
@@ -1396,7 +1396,7 @@ const sessions = [
   },
   {
     id: '00124',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 6L',
     day: 'Friday 26, Nov 21',
@@ -1405,7 +1405,7 @@ const sessions = [
   },
   {
     id: '00125',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 6H',
     day: 'Friday 26, Nov 21',
@@ -1414,7 +1414,7 @@ const sessions = [
   },
   {
     id: '00126',
-    subject: 'GLOBAL PERSPECTIVES',
+    subject: 'GLOBAL PERSPECTIVES (GP)',
     paper: 'single',
     grade: 'Class 5K',
     day: 'Friday 26, Nov 21',
