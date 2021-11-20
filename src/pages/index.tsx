@@ -21,7 +21,7 @@ const Index = () => {
         className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-500 leading-tight focus:outline-none focus:shadow-outline"
         id="search"
         type="text"
-        placeholder="Type a keyword to search: 1s, 6h, art etc..."
+        placeholder="Type class name, subject etc to search"
         onChange={(e) => setKeyword(e.target.value)}
       />
       <Exams searchfor={keyword} />
