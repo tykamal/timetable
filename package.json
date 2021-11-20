@@ -1,6 +1,7 @@
 {
-  "name": "next-js-boilerplate",
+  "name": "school-exams-timetable",
   "version": "1.0.0",
+  "author": "Saad Wambangulu",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
