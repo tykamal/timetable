@@ -11,13 +11,15 @@ const Main = (props: IMainProps) => (
   <div className="antialiased w-full text-gray-700 px-1">
     {props.meta}
 
-    <div className="max-w-screen-md mx-auto">
+    <div className="max-w-3/4 md:max-w-md mx-auto">
       <div className="border-b border-gray-300">
         <div className="pt-16 pb-8">
           <div className="font-bold text-xl md:text-2xl lg:text-3xl text-gray-900">
             {AppConfig.title}
           </div>
-          <div className="text-l md:text-xl">{AppConfig.description}</div>
+          <div className="text-l md:text-xl whitespace-nowrap">
+            {AppConfig.description}
+          </div>
         </div>
       </div>
 

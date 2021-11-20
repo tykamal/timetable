@@ -1441,15 +1441,15 @@ export default function Exams({ searchfor }: { searchfor: string }) {
     })
     .map((data) => {
       return (
-        <ul key={data.id} className="divide-y divide-gray-200">
-          <li key={data.id} className="py-2 px-4 flex border">
-            <p className="h-30 w-30 bg-gray-200">{data.grade}</p>
-            <div className="ml-3 px-2 boxshadow">
-              <p className="text-sm font-medium text-gray-900">
+        <ul key={data.id} className="divide-y divide-gray-900">
+          <li key={data.id} className="py-1 px-4 flex border-4">
+            <p className="p-2 h-30 w-30 bg-gray-200">{data.grade}</p>
+            <div className="ml-3 px-2">
+              <p className="text-md md:text-sm font-medium text-gray-900">
                 {data.subject} {data.paper === 'single' ? ' ' : data.paper}
               </p>
-              <p className="text-sm text-gray-600">{data.day}</p>
-              <p className="text-sm text-gray-500">
+              <p className="text-md md:text-sm text-gray-600">{data.day}</p>
+              <p className="text-md md:text-sm text-gray-500">
                 {data.starttime} - {data.endtime}
               </p>
             </div>
@@ -1458,7 +1458,7 @@ export default function Exams({ searchfor }: { searchfor: string }) {
       );
     });
   return (
-    <div className="grid gap-4 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+    <div className="grid gap-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
       {papers}
     </div>
   );
